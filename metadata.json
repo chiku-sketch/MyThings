@@ -1,0 +1,8 @@
+{
+  "name": "ARIONZ // MY THINGS ",
+  "description": "Global Theoretical Physics & Advanced Engineering Research Archive — Independent Research & Speculative Engineering Portfolio featuring exhaustive 9-point concept dossiers, step-by-step mathematical derivations, and system diagrams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
